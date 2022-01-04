@@ -1,0 +1,25 @@
+{
+  "name": "msctf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "msctf.js",
+  "dependencies": {
+    "cloudflare-scraper": "^1.0.7",
+    "colors": "^1.4.0",
+    "hcaptcha-solver": "^1.0.2",
+    "minimist": "^1.2.5",
+    "proxy-agent": "^5.0.0",
+    "puppeteer": "^11.0.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-recaptcha": "^3.5.0",
+    "request": "^2.88.2",
+    "user-agents": "^1.0.844",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
